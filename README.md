@@ -21,20 +21,10 @@ To get started, simply clone this repository to your local machine:
 git clone https://github.com/YOUR_USERNAME/rust-free-learning.git
 ```
 
-Once the repository is cloned, you can start learning Rust by reading the following articles:
+Once the repository is cloned, you can start learning Rust:
 
-- Introduction to Rust: rust-free-learning/introduction.md
-- Variables, Functions, and Objects: rust-free-learning/variables-functions-objects.md
-- Ownership and Borrowing: rust-free-learning/ownership-borrowing.md
-- Generics: rust-free-learning/generics.md
-- Traits: rust-free-learning/traits.md
-- Error Handling: rust-free-learning/error-handling.md
-- Concurrency: rust-free-learning/concurrency.md
-- Async/Await: rust-free-learning/async-await.md
-- Web Development with Rust: rust-free-learning/web-development-with-rust.md
-- System Programming with Rust: rust-free-learning/system-programming-with-rust.md
-- Game Development with Rust: rust-free-learning/game-development-with-rust.md
-- Embedded Systems with Rust: rust-free-learning/embedded-systems-with-rust.md
+- Rust says "Hello World!!!": hello-rust/README.md
+
 
 ### Contributing
 
